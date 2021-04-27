@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/> <div class="entry-body__el"><div class="relativDiv"><div class="idiom-block"><span class="headword">accept/take sth on faith</span><span class="idiom-body"><div class="sense-block"> <div class="sense-body"><div class="def-block"><p class="def-head"><span class="def-info"> </span><span class="en_def">to be willing to believe something without proof</span><span class="cn_def">未加核实地相信；不加怀疑地相信</span></p><span class="def-body"></span></div></div> </div></span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

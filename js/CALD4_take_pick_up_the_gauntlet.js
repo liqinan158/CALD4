@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/> <div class="entry-body__el"><div class="relativDiv"><div class="idiom-block"><span class="headword">take/pick up the gauntlet</span><span class="idiom-body"><div class="sense-block"> <div class="sense-body"><div class="def-block"><p class="def-head"><span class="def-info"> </span><span class="en_def">to agree to fight or compete with someone</span><span class="cn_def">接受挑战</span></p><span class="def-body"></span></div></div> </div></span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

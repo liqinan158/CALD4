@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/> <div class="entry-body__el"><div class="relativDiv"><div class="idiom-block"><span class="headword">bed of roses</span><span class="idiom-body"><div class="sense-block"> <div class="sense-body"><div class="def-block"><p class="def-head"><span class="def-info"> </span><span class="en_def">an easy and happy existence</span><span class="cn_def">安乐窝；称心如意的处境</span></p><span class="def-body"></span></div></div> </div></span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

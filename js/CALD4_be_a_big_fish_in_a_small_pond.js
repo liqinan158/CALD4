@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/> <div class="entry-body__el"><div class="relativDiv"><div class="idiom-block"><span class="headword">be a big fish in a small pond</span><span class="idiom-body"><div class="sense-block"> <div class="sense-body"><div class="def-block"><p class="def-head"><span class="def-info"> </span><span class="en_def">to have a lot of influence only over a small area</span><span class="cn_def">是小池中的大鱼；仅在小范围内很有影响</span></p><span class="def-body"></span></div></div> </div></span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');

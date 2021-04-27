@@ -1,0 +1,2 @@
+var custom_content = `<meta charset='utf-8'/> <div class="entry-body__el"><div class="relativDiv"><div class="idiom-block"><span class="headword">the jewel in the crown</span><span class="idiom-body"><div class="sense-block"> <div class="sense-body"><div class="def-block"><p class="def-head"><span class="def-info"> </span><span class="en_def">the best or most valuable part of something</span><span class="cn_def">王冠上的宝石，最珍贵的部分</span></p><span class="def-body"></span></div></div> </div></span></div></div></div>`;
+window.parent.postMessage(custom_content,'*');
